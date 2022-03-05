@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Infrastrcuture, Automation, and Technology Leadership
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Infrastructure as code, overall infrastructure Automation
-- 📫 How to reach me ...
+- 📫 How to reach me ... LinkedIn
 
 <!---
 sjenk1/sjenk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
